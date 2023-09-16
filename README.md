@@ -1,2 +1,2 @@
 # Amazon_website-clone
-This is my project repository.
+This is my first project repository.
