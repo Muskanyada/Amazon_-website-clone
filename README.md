@@ -1,2 +1,2 @@
-# Amazon_-website-clone
+# Amazon_website-clone
 This is my project repository.
